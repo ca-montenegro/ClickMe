@@ -5,7 +5,6 @@ var MongoClient = require("mongodb").MongoClient
 const assert = require("assert");
 const dbName="heroku_bfgczx4s";
 var DB_URI=process.env.MONGODB_URI;
-      //DB_URI  ="mongodb://heroku_bfgczx4s:v0fc10q71ccbfng32birdl7ggp@ds153948.mlab.com:53948/heroku_bfgczx4s"
  console.log(DB_URI);
 
 const app = express();
