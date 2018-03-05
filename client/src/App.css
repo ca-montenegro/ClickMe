@@ -19,7 +19,7 @@ p{
 
 img
 {
-  position: absolute;
+  position:relative;	
   top: 35%;
   left: 40%;
 }
