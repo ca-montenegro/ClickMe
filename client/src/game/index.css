@@ -1,0 +1,101 @@
+input
+{
+  padding-top: 30px;
+  font-size: 35px;
+     width: 300px;
+}
+input[type="submit"]
+{
+    text-align: center;
+}
+
+
+#feliz
+{
+  position: absolute;
+  top: 30%;
+  left: 80%;
+  height: 50%;
+  width: 50%;
+}
+.endgame{
+  
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 16px;
+  z-index: 1;
+  text-align: center;
+  font-size: 45px;
+  height: 50%;
+  width: 34%;
+  font-weight: bold;
+}
+.status{
+
+ position: absolute;
+left: 45%;
+  z-index: 15;
+  top: 1%;
+  text-align: center;
+  font-size: 50px;
+  line-height: 1.6;
+}
+
+body {
+  font: 14px "Century Gothic", Futura, sans-serif;
+  margin: 20px;
+}
+
+ol, ul {
+  padding-left: 30px;
+}
+
+.board-row:after {
+  clear: both;
+  content: "";
+  display: table;
+}
+
+.status {
+  margin-bottom: 10px;
+}
+
+.square {
+  border-radius: 50%;
+  width: 34px;
+  height: 34px;
+  background-color: black;
+  position: absolute;
+  left: 100px;
+  top: 150px;
+  /*
+  background: #fff;
+  float: left;
+  font-size: 24px;
+  font-weight: bold;
+  margin-right: -1px;
+  margin-top: -1px;
+  padding: 0;
+  text-align: center;
+  */
+
+}
+
+.square:focus {
+  outline: none;
+}
+
+.kbd-navigation .square:focus {
+  background: #ddd;
+}
+
+.game {
+  display: flex;
+  flex-direction: row;
+}
+
+.game-info {
+  margin-left: 20px;
+}
