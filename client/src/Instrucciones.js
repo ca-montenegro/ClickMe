@@ -13,7 +13,9 @@ class Instrucciones extends Component
 
 		<p>
 			<pre>
-			Este juego te permitirá mejorar tus habilidades con el mouse, solamente debes hacer click en los circulos de colores.
+			Este juego te permitirá mejorar tus habilidades con el mouse </pre>
+			<pre>
+			solamente debes hacer click en los circulos de colores.
 			</pre>
 			Coloca tu mano en el mouse y dale click a la imágen cuando estes listo.
 		</p>
