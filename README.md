@@ -1,7 +1,7 @@
 # ClickMe
 ## Description
-This is a web application to my students of digital literacy.
-It is a game designed to increse their skills with the use of mouse.
+This is a web application to my students of digital literacy. It is a game designed to increase their skills with the use of the mouse.
+
 
 ## Motivation
 This is a project for a web development class in [Uniandes](https://www.uniandes.edu.co). The objective is to make a quick project using NodeJS, MongoDB and ReactJS. I decided to make this project after look the needs of the elderly.
