@@ -1,3 +1,4 @@
+//Me parece que tiene bien estructurado el proyecto, los componentes están bien definidos y modulados.
 import React, { Component } from "react";
 import "./App.css";
 import Header from "./Header";
