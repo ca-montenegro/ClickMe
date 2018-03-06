@@ -2,6 +2,8 @@
 ## Description
 This is a web application to my students of digital literacy. It is a game designed to increase their skills with the use of the mouse.
 
+## Demo
+https://click-mev6.herokuapp.com/#/
 
 ## Motivation
 This is a project for a web development class in [Uniandes](https://www.uniandes.edu.co). The objective is to make a quick project using NodeJS, MongoDB and ReactJS. I decided to make this project after look the needs of the elderly.
