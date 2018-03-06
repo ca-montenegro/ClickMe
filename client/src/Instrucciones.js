@@ -1,3 +1,6 @@
+/**Seria bueno que la vista principal en donde muestra las instrucciones y la animación del mouse, se hiciera más
+amigable para el usuario. Añadir algun tipo de template, ajustar el tamaño de la animación y creería que mejorar el respoonsive.
+*/
 import React, { Component } from "react";
 import { Link } from 'react-router-dom';
 
