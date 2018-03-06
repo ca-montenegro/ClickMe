@@ -70,10 +70,9 @@ __under construction__
 
 ## Authors
 * [__Germán Andrade__](https://github.com/gcandrade10)
-* 
 
 ## Contributing
-If anyone wants to give me any help or ideas, you can by making new [Issues](https://github.com/jsbarragan796/filaAgil/issues) or a [Pull requests](https://github.com/jsbarragan796/filaAgil/pulls).
+If anyone wants to give me any help or ideas, you can by making new [Issues](https://github.com/gcandrade10/ClickMe/issues) or a [Pull requests](https://github.com/gcandrade10/ClickMe/pulls).
 
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
